@@ -4,8 +4,16 @@ git add . //all
 
 git status //check status of working tree
 git commit //commit changes
+git commit -m "hentai" //message
+
 git push //push to REMOTE repo
 git pull //pull from remote repo
+
+git clone [LINK TO REPO]
 git rm --cached [FILE] //remove
+
+git checkout master
+git checkout [BRANCH]
+git branch [NEW BRANCH]
 
 here: local repo, github: remote repo
