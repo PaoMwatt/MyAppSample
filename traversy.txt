@@ -1,0 +1,9 @@
+git init //initialize local git repo
+git add //add files to index
+git status //check status of working tree
+git commit //commit changes
+git push //push to REMOTE repo
+git pull //pull from remote repo
+git rm --cached [FILE] //remove
+
+here: local repo, github: remote repo
